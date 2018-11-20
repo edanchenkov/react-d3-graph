@@ -1,4 +1,4 @@
-## NOTE!
+## NOTE! ⚠️
 
 This is fork of https://github.com/danielcaldas/react-d3-graph. You should use that _original_ version, unless you 100% sure what you are doing.
 
