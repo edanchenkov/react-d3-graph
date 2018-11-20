@@ -1,6 +1,6 @@
 ## NOTE! ⚠️
 
-This is fork of https://github.com/danielcaldas/react-d3-graph. You should use that _original_ version, unless you 100% sure what you are doing.
+This is fork of https://github.com/danielcaldas/react-d3-graph. You should use that _original_ version, unless you are 100% sure what you are doing.
 
 ```bash
 npm i react-d3-graph
