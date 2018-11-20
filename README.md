@@ -1,30 +1,10 @@
-# react-d3-graph &middot; [![Build Status](https://travis-ci.org/danielcaldas/react-d3-graph.svg?branch=master&style=flat-square)](https://travis-ci.org/danielcaldas/react-d3-graph)
+## NOTE!
 
-[![npm version](https://img.shields.io/npm/v/react-d3-graph.svg?style=flat-square)](https://www.npmjs.com/package/react-d3-graph) [![probot enabled](https://img.shields.io/badge/probot:stale-enabled-yellow.svg?longCache=true&style=flat-square)](https://probot.github.io/) [![trello](https://img.shields.io/badge/trello-board-blue.svg?longCache=true&style=flat-square)](https://trello.com/b/KrnmFXha/react-d3-graph)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+This is fork of https://github.com/danielcaldas/react-d3-graph. You should use that _original_ version, unless you 100% sure what you are doing.
 
-[![npm](https://img.shields.io/npm/dw/react-d3-graph.svg?style=flat-square)](https://www.npmjs.com/package/react-d3-graph)
-[![npm](https://img.shields.io/npm/dt/react-d3-graph.svg?style=flat-square)](https://www.npmjs.com/package/react-d3-graph)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DanielCaldas321)
-
-:book: [documentation](https://danielcaldas.github.io/react-d3-graph/docs/index.html)
-
-### _Interactive and configurable graphs with react and d3 effortlessly_
-
-[![react-d3-graph gif sample](https://github.com/danielcaldas/react-d3-graph/blob/master/sandbox/rd3g_v2.gif?raw=true)](https://danielcaldas.github.io/react-d3-graph/sandbox/index.html)
-
-## Playground
-
-[Here a live playground](https://danielcaldas.github.io/react-d3-graph/sandbox/index.html) page where you can interactively config your own graph, and generate a ready to use configuration! :sunglasses:
-
-You can also load different datasets and configurations via URL query parameter, here are the links:
-
-*   [small dataset](https://goodguydaniel.com/react-d3-graph/sandbox/index.html?data=small) - small example.
-*   [custom node dataset](https://goodguydaniel.com/react-d3-graph/sandbox/index.html?data=custom-node) - sample config with custom views.
-*   [marvel dataset!](https://goodguydaniel.com/react-d3-graph/sandbox/index.html?data=marvel) - sample config with directed collapsible graph and custom svg nodes.
-
-Do you want to visualize your own data set on the live sandbox? Just submit a PR! You're welcome 😁
+```bash
+npm i react-d3-graph
+```
 
 ## Documentation :book:
 
@@ -32,10 +12,8 @@ Full documentation [here](https://danielcaldas.github.io/react-d3-graph/docs/ind
 
 ## Install
 
-[![https://nodei.co/npm/YOUR-MODULE-NAME.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/react-d3-graph.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-d3-graph)
-
 ```bash
-npm install react-d3-graph // using npm
+npm i @edanchenkov/react-d3-graph
 ```
 
 ## Usage sample
