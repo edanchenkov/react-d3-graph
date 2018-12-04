@@ -242,7 +242,7 @@ function _validateGraphData(data) {
  * @memberof Graph/helper
  */
 function buildLinkProps(link, nodes, links, config, linkCallbacks, highlightedNode, highlightedLink, transform) {
-    const { source, target } = link;
+    const { source, target, label, showLabel, linkId, labelStyle } = link;
     const x1 = (nodes[source] && nodes[source].x) || 0;
     const y1 = (nodes[source] && nodes[source].y) || 0;
     const x2 = (nodes[target] && nodes[target].x) || 0;
@@ -305,7 +305,11 @@ function buildLinkProps(link, nodes, links, config, linkCallbacks, highlightedNo
         onClickLink: linkCallbacks.onClickLink,
         onRightClickLink: linkCallbacks.onRightClickLink,
         onMouseOverLink: linkCallbacks.onMouseOverLink,
-        onMouseOutLink: linkCallbacks.onMouseOutLink
+        onMouseOutLink: linkCallbacks.onMouseOutLink,
+        label,
+        showLabel,
+        linkId,
+        labelStyle
     };
 }
 

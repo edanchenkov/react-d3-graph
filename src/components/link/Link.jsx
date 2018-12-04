@@ -86,6 +86,19 @@ export default class Link extends React.Component {
             lineProps.markerEnd = `url(#${this.props.markerId})`;
         }
 
-        return <path {...lineProps} />;
+        const { label, linkId, labelStyle } = this.props;
+
+        return (
+            <g>
+                <path id={linkId} {...lineProps} />
+                {this.props.showLabel && (
+                    <text {...labelStyle}>
+                        <textPath textAnchor="middle" startOffset="50%" href={'#' + linkId}>
+                            {label}
+                        </textPath>
+                    </text>
+                )}
+            </g>
+        );
     }
 }
