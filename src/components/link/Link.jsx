@@ -73,13 +73,16 @@ export default class Link extends React.Component {
         };
 
         const lineProps = {
-            className: this.props.className,
             d: this.props.d,
-            onClick: this.handleOnClickLink,
+            style: lineStyle
+        };
+
+        const gProps = {
+            className: this.props.className,
             onContextMenu: this.handleOnRightClickLink,
             onMouseOut: this.handleOnMouseOutLink,
             onMouseOver: this.handleOnMouseOverLink,
-            style: lineStyle
+            onClick: this.handleOnClickLink
         };
 
         if (this.props.markerId) {
@@ -89,7 +92,7 @@ export default class Link extends React.Component {
         const { label, linkId, labelStyle } = this.props;
 
         return (
-            <g>
+            <g {...gProps}>
                 <path id={linkId} {...lineProps} />
                 {this.props.showLabel && (
                     <text {...labelStyle}>

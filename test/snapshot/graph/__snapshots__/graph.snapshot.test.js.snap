@@ -115,482 +115,594 @@ exports[`Snapshot - Graph Component should match snapshot 1`] = `
       }
       transform={null}
     >
-      <path
+      <g
         className="link"
-        d="M40,200A0,0 0 0,1 140,20"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M40,200A0,0 0 0,1 140,20"
+          id="Harry,Sally"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M40,200A0,0 0 0,1 20,110"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M40,200A0,0 0 0,1 20,110"
+          id="Harry,Mario"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M30,184A0,0 0 0,1 305,745"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M30,184A0,0 0 0,1 305,745"
+          id="Sarah,Alice"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M200,300A0,0 0 0,1 305,745"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M200,300A0,0 0 0,1 305,745"
+          id="Eveie,Alice"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M120,270A0,0 0 0,1 305,745"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M120,270A0,0 0 0,1 305,745"
+          id="Peter,Alice"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M20,110A0,0 0 0,1 305,745"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M20,110A0,0 0 0,1 305,745"
+          id="Mario,Alice"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M190,609A0,0 0 0,1 305,745"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M190,609A0,0 0 0,1 305,745"
+          id="James,Alice"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M40,200A0,0 0 0,1 101,201"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M40,200A0,0 0 0,1 101,201"
+          id="Harry,Carol"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M40,200A0,0 0 0,1 2,200"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M40,200A0,0 0 0,1 2,200"
+          id="Harry,Nicky"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M404,404A0,0 0 0,1 14,30"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M404,404A0,0 0 0,1 14,30"
+          id="Bobby,Frank"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M305,745A0,0 0 0,1 20,110"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M305,745A0,0 0 0,1 20,110"
+          id="Alice,Mario"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M40,200A0,0 0 0,1 14,250"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M40,200A0,0 0 0,1 14,250"
+          id="Harry,Lynne"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M30,184A0,0 0 0,1 190,609"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M30,184A0,0 0 0,1 190,609"
+          id="Sarah,James"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M14,259A0,0 0 0,1 190,609"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M14,259A0,0 0 0,1 190,609"
+          id="Roger,James"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M409,500A0,0 0 0,1 190,609"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M409,500A0,0 0 0,1 190,609"
+          id="Maddy,James"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M520,123A0,0 0 0,1 14,259"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M520,123A0,0 0 0,1 14,259"
+          id="Sonny,Roger"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M190,609A0,0 0 0,1 14,259"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M190,609A0,0 0 0,1 14,259"
+          id="James,Roger"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M305,745A0,0 0 0,1 120,270"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M305,745A0,0 0 0,1 120,270"
+          id="Alice,Peter"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M14,20A0,0 0 0,1 120,270"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M14,20A0,0 0 0,1 120,270"
+          id="Johan,Peter"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M305,745A0,0 0 0,1 200,300"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M305,745A0,0 0 0,1 200,300"
+          id="Alice,Eveie"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M40,200A0,0 0 0,1 200,300"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M40,200A0,0 0 0,1 200,300"
+          id="Harry,Eveie"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M200,300A0,0 0 0,1 40,200"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M200,300A0,0 0 0,1 40,200"
+          id="Eveie,Harry"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M20,1A0,0 0 0,1 90,90"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M20,1A0,0 0 0,1 90,90"
+          id="Henry,Mikey"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M90,656A0,0 0 0,1 90,90"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M90,656A0,0 0 0,1 90,90"
+          id="Elric,Mikey"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M190,609A0,0 0 0,1 30,184"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M190,609A0,0 0 0,1 30,184"
+          id="James,Sarah"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M305,745A0,0 0 0,1 30,184"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M305,745A0,0 0 0,1 30,184"
+          id="Alice,Sarah"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M190,609A0,0 0 0,1 409,500"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M190,609A0,0 0 0,1 409,500"
+          id="James,Maddy"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
-      <path
+        />
+      </g>
+      <g
         className="link"
-        d="M120,270A0,0 0 0,1 14,20"
         onClick={[Function]}
         onContextMenu={[Function]}
         onMouseOut={[Function]}
         onMouseOver={[Function]}
-        style={
-          Object {
-            "cursor": "pointer",
-            "fill": "none",
-            "opacity": 1,
-            "stroke": "#d3d3d3",
-            "strokeWidth": 1.5,
+      >
+        <path
+          d="M120,270A0,0 0 0,1 14,20"
+          id="Peter,Johan"
+          style={
+            Object {
+              "cursor": "pointer",
+              "fill": "none",
+              "opacity": 1,
+              "stroke": "#d3d3d3",
+              "strokeWidth": 1.5,
+            }
           }
-        }
-      />
+        />
+      </g>
       <g
         className="node"
         cx="40"
