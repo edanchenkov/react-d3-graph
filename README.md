@@ -6,9 +6,7 @@ This is fork of https://github.com/danielcaldas/react-d3-graph. You should use t
 npm i react-d3-graph
 ```
 
-## TODO:
-
-Change how Link is structured, this probably cause some issues e.g. in collapsible graph and  highlightning nodes
+- Changde how Link is structured. This probably cause some issues e.g. in collapsible graph and  highlightning nodes
 
 ## Documentation :book:
 
