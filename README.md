@@ -6,6 +6,10 @@ This is fork of https://github.com/danielcaldas/react-d3-graph. You should use t
 npm i react-d3-graph
 ```
 
+## TODO:
+
+Change how Link is structured, this probably cause some issues e.g. in collapsible graph and  highlightning nodes
+
 ## Documentation :book:
 
 Full documentation [here](https://danielcaldas.github.io/react-d3-graph/docs/index.html).
